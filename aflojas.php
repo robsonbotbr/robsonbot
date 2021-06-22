@@ -1,6 +1,6 @@
 <?php
 ############################################################################################
-# @SuporteMasterBot Dev by: Nilsonlinux                                                    #
+# @roobsiilva RoobWindows                                                   #
 ############################################################################################
   define('BOT_TOKEN', '1511931883:AAHVHAhOF6aFZk-cv7MeBT5jQ-GOwVh8DNc');
   define('API_URL', 'https://api.telegram.org/bot'.BOT_TOKEN.'/');
